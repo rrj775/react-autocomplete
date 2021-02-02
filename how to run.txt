@@ -1,0 +1,3 @@
+go to cd demo-project
+
+npm start
